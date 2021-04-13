@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UAGIS on John&#39;s Blog</title>
+    <link>https://hugo-toha.github.io/posts/uas/</link>
+    <description>Recent content in UAGIS on John&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Dec 1969 19:00:00 -0500</lastBuildDate><atom:link href="https://hugo-toha.github.io/posts/uas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bramor PPX Checklist</title>
+      <link>https://hugo-toha.github.io/posts/uas/bramor-checklist/</link>
+      <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/uas/bramor-checklist/</guid>
+      <description>Archive !!Hupy &amp;amp; Lercel set gold standards!! Preflight Checklist - DJI Mavic Pro II 3d model data acquisition Mission Processing and Execution Field Notes Mission Planning How to use MGC to connect your phone and start or createa mapping mission  Tools  MGC Telemetry?GPS?etc   Boot MGC Enable platform Establish connection Create mission Lost links/emergency/pre-planning procedure  Setup and Takedown of Bramor  General c/o procedure
+Operating Procedures Check in/out Standard Operating Procedure There is a c/o form on BS - goalto get ?</description>
+    </item>
+    
+    <item>
+      <title>ESRI: Volumetrics Project</title>
+      <link>https://hugo-toha.github.io/posts/uas/esri-volumetrics/</link>
+      <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/uas/esri-volumetrics/</guid>
+      <description>ESRI: Volumetrics Project Overview Using data provided by Dr. J. Hupy from a recent mining mission in Eau Claire, WI, I had the opportunity to develop and</description>
+    </item>
+    
+    <item>
+      <title>Measure Ground Control: Mission Ettiquette</title>
+      <link>https://hugo-toha.github.io/posts/uas/mgc-me/</link>
+      <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/uas/mgc-me/</guid>
+      <description>Measure Ground Control: Mission Ettiquette Currently being compiled - coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Pix4D: Working with GCPs</title>
+      <link>https://hugo-toha.github.io/posts/uas/pi4d-ww-gcp/</link>
+      <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/uas/pi4d-ww-gcp/</guid>
+      <description>Working with GCPs Overview Under the supervision of Dr. J. Hupy, I alongside my peer Matt Watson conducted a mission in which we flew ver</description>
+    </item>
+    
+    <item>
+      <title>UAGIS Overview</title>
+      <link>https://hugo-toha.github.io/posts/uas/uagis-overview/</link>
+      <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/uas/uagis-overview/</guid>
+      <description>The information I&amp;rsquo;ve written on my portfolio can also be found on the UAGIS website &amp;ndash; my SSOT index for Purdue University unmanned aviators.
+The Goal I built the UAGIS project with the goal of enabling aspiring aviators to have a single-source of truth index to reference before taking a drone into the field to ensure they are part 107 compliant and following the rules and guidelines set by the university.</description>
+    </item>
+    
+  </channel>
+</rss>
