@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Pix4D: Working with GCPs</title>
+    <title>অ্যাডভান্সড</title>
     
 
 
@@ -39,13 +39,12 @@
 <link rel="stylesheet" href="/css/style.css"/>
 
     
-<meta name="description" content="Pix4D: Working with GCPs" />
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
-/>
-<link rel="stylesheet" href="/css/layouts/single.css"/>
-<link rel="stylesheet" href="/css/navigators/sidebar.css">
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
+  />
+  <link rel="stylesheet" href="/css/layouts/notes.css">
+  <link rel="stylesheet" href="/css/navigators/sidebar.css">
 
 
     
@@ -121,6 +120,9 @@ if (!doNotTrack) {
 
       
       
+  
+  
+
   <section class="sidebar-section" id="sidebar-section">
     <div class="sidebar-holder">
       <div class="sidebar" id="sidebar">
@@ -129,16 +131,64 @@ if (!doNotTrack) {
         </form>
         <div class="sidebar-tree">
           <ul class="tree" id="tree">
-            <li id="list-heading"><a href="/posts" data-filter="all">Posts</a></li>
+            <li id="list-heading"><a href="/notes" data-filter="all">Notes</a></li>
             <div class="subtree">
                 
   
   
   
   
+    
+    
+  
   
     
-    <li><a class="" href="/posts/shortcodes/">Shortcodes Sample</a></li>
+    <li>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/notes/go/_index.bn/">Go</a>
+      
+      <ul class="active">
+        
+  
+  
+  
+  
+  
+    
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/notes/go/basic/_index.bn/">বেসিক</a>
+      
+      <ul class="">
+        
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/notes/go/basic/introduction/">পরিচিতি</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/notes/go/basic/types/">বেসিক টাইপ সমূহ</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/notes/go/basic/flow-control/">Flow Control</a></li>
+  
+
+
+      </ul>
+    </li>
   
 
   
@@ -151,7 +201,7 @@ if (!doNotTrack) {
   
     
     <li>
-      <i class="fas fa-minus-circle"></i><a class="active" href="/posts/uas/">UAGIS</a>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/notes/go/advanced/_index.bn/">অ্যাডভান্সড</a>
       
       <ul class="active">
         
@@ -161,7 +211,17 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="" href="/posts/uas/uagis-overview/">UAGIS Overview</a></li>
+    <li><a class="" href="/notes/go/advanced/files/">ফাইল ম্যানিপুলেশন</a></li>
+  
+
+
+      </ul>
+    </li>
+  
+
+
+      </ul>
+    </li>
   
 
   
@@ -170,37 +230,18 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="" href="/posts/uas/bramor-checklist/">Bramor PPX Checklist</a></li>
-  
-
-  
-  
-  
-  
-  
-    
-    <li><a class="" href="/posts/uas/esri-volumetrics/">ESRI Volumetrics Project</a></li>
-  
-
-  
-  
-  
-  
-    
-    
-  
-  
-    
-    <li><a class="active" href="/posts/uas/pi4d-ww-gcp/">Working with GCPs in Pix4D</a></li>
-  
-
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/notes/bash/_index.bn/">ব্যাশ</a>
+      
+      <ul class="">
+        
   
   
   
   
   
     
-    <li><a class="" href="/posts/uas/mgc-me/">Measure Ground Control Mission Ettiquette</a></li>
+    <li><a class="" href="/notes/bash/basic/">ভেরিয়েবল</a></li>
   
 
 
@@ -220,122 +261,18 @@ if (!doNotTrack) {
       
       
 <section class="content-section" id="content-section">
-  <div class="content">
-    <div class="container p-0 read-area">
-      
-      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(https://hugo-toha.github.io/images/default-hero.jpg);'>
-      </div>
-
-      
-      <div class="page-content">
-        <div class="author-profile ml-auto align-self-lg-center">
-          <img class="rounded-circle" src='/images/author/avatar.jpg' alt="Author Image">
-          <h5 class="author-name">Bryan Jacobs</h5>
-          <p>December 31, 1969</p>
-        </div>
-
-        <div class="title">
-          <h1>Pix4D: Working with GCPs</h1>
-        </div>
-
-        <div class="post-content" id="post-content">
-          <h3 id="working-with-gcps-overview">Working with GCPs Overview</h3>
-<p>Under the supervision of Dr. J. Hupy, I alongside my peer Matt Watson conducted a mission in which we flew ver</p>
-
-        </div>
-
+  <div class="content container-fluid" id="content">
+    <div class="container-fluid note-card-holder" id="note-card-holder">
+      <div class="note-collection">
         
-        
-          <div class="btn-improve-page">
-              <a href="https://github.com/hugo-toha/hugo-toha.github.io/edit/source/content/posts%5cUAS%5cpi4d-ww-gcp.md" target="_blank">
-                <i class="fas fa-code-branch"></i>
-                Improve this page
-              </a>
-          </div>
-        
-
-        
-      <hr />
-        <div class="row next-prev-navigator">
-
-
-  
-
-  
-
-  
-
-  
-    
-      
-      <div class="col-md-6 previous-article">
-        <a href="/posts/uas/mgc-me/" class="btn btn-outline-info">
-          <div><i class="fas fa-chevron-circle-left"></i> Prev</div>
-          <div class="next-prev-text">Measure Ground Control: Mission Ettiquette</div>
-        </a>
-      </div>
-      
-    
-    
-      
-        
-        
-          
-              
-          
-        
-        <div class="col-md-6 next-article">
-          <a href="/posts/uas/uagis-overview/" class="btn btn-outline-info">
-            <div>Next <i class="fas fa-chevron-circle-right"></i></div>
-            <div class="next-prev-text">UAGIS Overview</div>
-          </a>
-        </div>
-      
-    
-  
-
-  
-
-  
-
-  
-
-</div>
-
-      <hr />
-      
-      
       </div>
     </div>
   </div>
-  
-  <a id="scroll-to-top" class="btn"><i class="fas fa-chevron-circle-up"></i></a>
-  
 </section>
 
 
       
-      
-  <section class="toc-section" id="toc-section">
-    
-    <div class="toc-holder">
-      <h5 class="text-center pl-3">Table of Contents</h5>
-      <hr>
-      <div class="toc">
-        <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li><a href="#working-with-gcps-overview">Working with GCPs Overview</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
-      </div>
-    </div>
-    
-  </section>
-
+       
     </div>
 
     
@@ -411,7 +348,7 @@ if (!doNotTrack) {
                 
               
               <li class="nav-item">
-                <a class="smooth-scroll" href="/#education">Education</a>
+                <a class="smooth-scroll" href="/#projects">Projects</a>
               </li>
             
             
@@ -420,7 +357,7 @@ if (!doNotTrack) {
                 
               
               <li class="nav-item">
-                <a class="smooth-scroll" href="/#projects">Projects</a>
+                <a class="smooth-scroll" href="/#education">Education</a>
               </li>
             
             
@@ -523,12 +460,11 @@ if (!doNotTrack) {
 
     
     
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
-<script src="/js/single.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
+  
 
   </body>
 </html>
