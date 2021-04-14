@@ -11,7 +11,7 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Data Normalizing
+- name: Data Management
   icon: "/images/sections/skills/kubernetes.png"
   summary: "I'm currently refining my skillset on normalizing all types of data in the manufacturing industry with my good friend Emir Beg. Click to see our current project."
   url: "https://scoutautonomy.com/"
@@ -20,15 +20,22 @@ skills:
   icon: "/images/sections/skills/go.png"
   summary: "I've become accustomed to diving into technical information quickly; this key skill is what gets me whitepaper authoring contracts in the InfoSec sector."
 
-- name: Architecture Interpretation
+- name: Cloud Architecture
   icon: "/images/sections/skills/cloud.png"
-  summary: "I have experience diving into customized databases and interpreting the infrastructure."
-
-- name: Geospatial Adaptability
-  icon: "/images/sections/skills/cloud.png"
-  summary: "I have experience gathering and analyzing geospatial data from an aerial perspective."
-  url: "/posts/uas/"
+  summary: "I'm comfortable working with Azure. I'm refining my competencies with Kubernetes and Docker."
 
 - name: Entrepreneurship
   icon: "/images/sections/skills/cloud.png"
   summary: "Fond of learning what the world needs and how I can help. I'm big on bringing ideas into fruition and brainstorming. I'm also very accustomed to being scrappy."
+
+- name: CAM, CAD
+  icon: "/images/sections/skills/cloud.png"
+  summary: "I really enjoy working with Houdini and Rhino/Grasshopper, and I am comfortable working with F360 and MicroSIM."
+
+- name: UAS
+  icon: "/images/sections/skills/cloud.png"
+  summary: "I am comfortable working with the Mavic 2 Pro and M210/M600. Currently working on learning how to properly use the Bramor PPX for geospatial missions."
+
+- name: GIS
+  icon: "/images/sections/skills/cloud.png"
+  summary: "I have experience working with geospatial systems such as ArcPro, Collector. I have experience gathering and analyzing geospatial data from an aerial perspective."
