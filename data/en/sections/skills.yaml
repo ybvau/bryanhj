@@ -11,23 +11,24 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Manufacturing Deep Tech 
+- name: Data Normalizing
   icon: "/images/sections/skills/kubernetes.png"
-  summary: "Currently refining competencies in manufacturer stacks & edge computing."
+  summary: "I'm currently refining my skillset on normalizing all types of data in the manufacturing industry with my good friend Emir Beg. Click to see our current project."
   url: "https://scoutautonomy.com/"
 
-- name: Technical Writing
+- name: Information Literacy
   icon: "/images/sections/skills/go.png"
-  summary: "Contracted whitepaper authoring, editing."
+  summary: "I've become accustomed to diving into technical information quickly; this key skill is what gets me whitepaper authoring contracts in the InfoSec sector."
 
-- name: Data Interpretation
+- name: Architecture Interpretation
   icon: "/images/sections/skills/cloud.png"
-  summary: "Tableau, NumPy, Pandas, data visualization."
+  summary: "I have experience diving into customized databases and interpreting the infrastructure."
 
-- name: GIS Data Analysis
+- name: Geospatial Adaptability
   icon: "/images/sections/skills/cloud.png"
-  summary: "Currently refnining my competencies in ESRI Suite, Pix4D, EZServ."
+  summary: "I have experience gathering and analyzing geospatial data from an aerial perspective."
+  url: "/posts/uas/"
 
 - name: Entrepreneurship
   icon: "/images/sections/skills/cloud.png"
-  summary: "Fond of low burn-rates for extended periods of time. Peak interst in increasing early-stage startup capital longevity."
+  summary: "Fond of learning what the world needs and how I can help. I'm big on bringing ideas into fruition and brainstorming. I'm also very accustomed to being scrappy."
