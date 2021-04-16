@@ -2,62 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/ybvau/bryanhj/notes/go/basic/introduction/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/go/basic/_index.bn/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/go/advanced/_index.bn/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/go/basic/types/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/go/basic/flow-control/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/go/advanced/files/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/bash/basic/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/search/</loc>
+    <loc>https://bryanhj.com/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/</loc>
+    <loc>https://bryanhj.com/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/posts/</loc>
+    <loc>https://bryanhj.com/posts/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/posts/shortcodes/</loc>
+    <loc>https://bryanhj.com/posts/shortcodes/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/posts/uas/bramor-checklist/</loc>
+    <loc>https://bryanhj.com/posts/uas/bramor-checklist/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/posts/uas/esri-volumetrics/</loc>
+    <loc>https://bryanhj.com/posts/uas/esri-volumetrics/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/posts/uas/mgc-me/</loc>
+    <loc>https://bryanhj.com/posts/uas/mgc-me/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/posts/uas/pi4d-ww-gcp/</loc>
+    <loc>https://bryanhj.com/posts/uas/pi4d-ww-gcp/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/posts/uas/</loc>
+    <loc>https://bryanhj.com/posts/uas/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/posts/uas/uagis-overview/</loc>
+    <loc>https://bryanhj.com/posts/uas/uagis-overview/</loc>
     <lastmod>1969-12-31T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/categories/</loc>
+    <loc>https://bryanhj.com/categories/</loc>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/go/_index.bn/</loc>
+    <loc>https://bryanhj.com/notes/</loc>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/search/</loc>
+    <loc>https://bryanhj.com/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://github.com/ybvau/bryanhj/tags/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/_index.bn/</loc>
-  </url><url>
-    <loc>https://github.com/ybvau/bryanhj/notes/bash/_index.bn/</loc>
+    <loc>https://bryanhj.com/tags/</loc>
   </url>
 </urlset>

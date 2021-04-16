@@ -2,87 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bryan Jacobs</title>
-    <link>https://github.com/ybvau/bryanhj/</link>
+    <link>https://bryanhj.com/</link>
     <description>Recent content on Bryan Jacobs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://github.com/ybvau/bryanhj/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Go পরিচিতি</title>
-      <link>https://github.com/ybvau/bryanhj/notes/go/basic/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/go/basic/introduction/</guid>
-      <description>Hello WorldA sample go program is show here.
-package main import &amp;#34;fmt&amp;#34; func main() { message := greetMe(&amp;#34;world&amp;#34;) fmt.Println(message) } func greetMe(name string) string { return &amp;#34;Hello, &amp;#34; + name + &amp;#34;!&amp;#34; } Run the program as below:
-$ go run hello.go VariablesNormal Declaration:
-var msg string msg = &amp;#34;Hello&amp;#34; Shortcut:
-msg := &amp;#34;Hello&amp;#34; Constantsconst Phi = 1.618 </description>
-    </item>
-    
-    <item>
-      <title>Go বেসিক</title>
-      <link>https://github.com/ybvau/bryanhj/notes/go/basic/_index.bn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/go/basic/_index.bn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>অ্যাডভান্সড</title>
-      <link>https://github.com/ybvau/bryanhj/notes/go/advanced/_index.bn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/go/advanced/_index.bn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>বেসিক টাইপ সমূহ</title>
-      <link>https://github.com/ybvau/bryanhj/notes/go/basic/types/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/go/basic/types/</guid>
-      <description>Stringsstr := &amp;#34;Hello&amp;#34; Multiline string
-str := `Multiline string` NumbersTypical types
-num := 3 // int num := 3. // float64 num := 3 + 4i // complex128 num := byte(&amp;#39;a&amp;#39;) // byte (alias for uint8) Other Types
-var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays// var numbers [5]int numbers := [.</description>
-    </item>
-    
-    <item>
-      <title>Flow Control</title>
-      <link>https://github.com/ybvau/bryanhj/notes/go/basic/flow-control/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/go/basic/flow-control/</guid>
-      <description>Conditionif day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;) Switchswitch day { case &amp;#34;sunday&amp;#34;: // cases don&amp;#39;t &amp;#34;fall through&amp;#34; by default!  fallthrough case &amp;#34;saturday&amp;#34;: rest() default: work() } Loopfor count := 0; count &amp;lt;= 10; count++ { fmt.</description>
-    </item>
-    
-    <item>
-      <title>ফাইল ম্যানিপুলেশন</title>
-      <link>https://github.com/ybvau/bryanhj/notes/go/advanced/files/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/go/advanced/files/</guid>
-      <description>Conditionif day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title>ব্যাশ ভেরিয়েবল</title>
-      <link>https://github.com/ybvau/bryanhj/notes/bash/basic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/bash/basic/</guid>
-      <description>VariableNAME=&amp;#34;John&amp;#34; echo $NAME echo &amp;#34;$NAME&amp;#34; echo &amp;#34;${NAME}Conditionif [[ -z &amp;#34;$string&amp;#34; ]]; then echo &amp;#34;String is empty&amp;#34; elif [[ -n &amp;#34;$string&amp;#34; ]]; then echo &amp;#34;String is not empty&amp;#34; fi </description>
-    </item>
-    
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://bryanhj.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Search Results</title>
-      <link>https://github.com/ybvau/bryanhj/search/</link>
+      <link>https://bryanhj.com/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://github.com/ybvau/bryanhj/search/</guid>
+      <guid>https://bryanhj.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -92,10 +22,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Shortcodes Samples</title>
-      <link>https://github.com/ybvau/bryanhj/posts/shortcodes/</link>
+      <link>https://bryanhj.com/posts/shortcodes/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://github.com/ybvau/bryanhj/posts/shortcodes/</guid>
+      <guid>https://bryanhj.com/posts/shortcodes/</guid>
       <description>This is a sample post intended to test the followings:
  Default hero image. Different shortcodes.  Alert The following alerts are available in this theme.
 This is sample alert with type=&amp;quot;success&amp;quot;.This is sample alert with type=&amp;quot;danger&amp;quot;.This is sample alert with type=&amp;quot;warning&amp;quot;.This is sample alert with type=&amp;quot;info&amp;quot;.This is sample alert with type=&amp;quot;dark&amp;quot;.This is sample alert with type=&amp;quot;primary&amp;quot;.This is sample alert with type=&amp;quot;secondary&amp;quot;.</description>
@@ -103,89 +33,62 @@ This is sample alert with type=&amp;quot;success&amp;quot;.This is sample aler
     
     <item>
       <title>Bramor PPX Checklist</title>
-      <link>https://github.com/ybvau/bryanhj/posts/uas/bramor-checklist/</link>
+      <link>https://bryanhj.com/posts/uas/bramor-checklist/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
       
-      <guid>https://github.com/ybvau/bryanhj/posts/uas/bramor-checklist/</guid>
+      <guid>https://bryanhj.com/posts/uas/bramor-checklist/</guid>
       <description>Archive !!Hupy &amp;amp; Lercel set gold standards!! Preflight Checklist - DJI Mavic Pro II 3d model data acquisition Mission Processing and Execution Field Notes Mission Planning How to use MGC to connect your phone and start or createa mapping mission  Tools  MGC Telemetry?GPS?etc   Boot MGC Enable platform Establish connection Create mission Lost links/emergency/pre-planning procedure  Setup and Takedown of Bramor  General c/o procedure
 Operating Procedures Check in/out Standard Operating Procedure There is a c/o form on BS - goalto get ?</description>
     </item>
     
     <item>
       <title>ESRI: Volumetrics Project</title>
-      <link>https://github.com/ybvau/bryanhj/posts/uas/esri-volumetrics/</link>
+      <link>https://bryanhj.com/posts/uas/esri-volumetrics/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
       
-      <guid>https://github.com/ybvau/bryanhj/posts/uas/esri-volumetrics/</guid>
+      <guid>https://bryanhj.com/posts/uas/esri-volumetrics/</guid>
       <description>ESRI: Volumetrics Project Overview Using data provided by Dr. J. Hupy from a recent mining mission in Eau Claire, WI, I had the opportunity to develop and</description>
     </item>
     
     <item>
       <title>Measure Ground Control: Mission Ettiquette</title>
-      <link>https://github.com/ybvau/bryanhj/posts/uas/mgc-me/</link>
+      <link>https://bryanhj.com/posts/uas/mgc-me/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
       
-      <guid>https://github.com/ybvau/bryanhj/posts/uas/mgc-me/</guid>
+      <guid>https://bryanhj.com/posts/uas/mgc-me/</guid>
       <description>Measure Ground Control: Mission Ettiquette Currently being compiled - coming soon.</description>
     </item>
     
     <item>
       <title>Pix4D: Working with GCPs</title>
-      <link>https://github.com/ybvau/bryanhj/posts/uas/pi4d-ww-gcp/</link>
+      <link>https://bryanhj.com/posts/uas/pi4d-ww-gcp/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
       
-      <guid>https://github.com/ybvau/bryanhj/posts/uas/pi4d-ww-gcp/</guid>
+      <guid>https://bryanhj.com/posts/uas/pi4d-ww-gcp/</guid>
       <description>Working with GCPs Overview Under the supervision of Dr. J. Hupy, I alongside my peer Matt Watson conducted a mission in which we flew ver</description>
     </item>
     
     <item>
       <title>UAGIS Overview</title>
-      <link>https://github.com/ybvau/bryanhj/posts/uas/uagis-overview/</link>
+      <link>https://bryanhj.com/posts/uas/uagis-overview/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
       
-      <guid>https://github.com/ybvau/bryanhj/posts/uas/uagis-overview/</guid>
+      <guid>https://bryanhj.com/posts/uas/uagis-overview/</guid>
       <description>The information I&amp;rsquo;ve written on my portfolio can also be found on the UAGIS website &amp;ndash; my SSOT index for Purdue University unmanned aviators.
 The Goal I built the UAGIS project with the goal of enabling aspiring aviators to have a single-source of truth index to reference before taking a drone into the field to ensure they are part 107 compliant and following the rules and guidelines set by the university.</description>
     </item>
     
     <item>
-      <title>Go এর নোট সমূহ</title>
-      <link>https://github.com/ybvau/bryanhj/notes/go/_index.bn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/go/_index.bn/</guid>
-      <description>Go Notes </description>
-    </item>
-    
-    <item>
       <title>Search Results</title>
-      <link>https://github.com/ybvau/bryanhj/search/</link>
+      <link>https://bryanhj.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/ybvau/bryanhj/search/</guid>
+      <guid>https://bryanhj.com/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
-    
-    <item>
-      <title>নোট সমূহ</title>
-      <link>https://github.com/ybvau/bryanhj/notes/_index.bn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/_index.bn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ব্যাশের নোট সমূহ</title>
-      <link>https://github.com/ybvau/bryanhj/notes/bash/_index.bn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ybvau/bryanhj/notes/bash/_index.bn/</guid>
-      <description>Bash Notes </description>
     </item>
     
   </channel>
