@@ -58,7 +58,7 @@ Sensor:	Ibid
 Battery Count:	2
 MISSION SPECS	
 PIC:	Bryan Jacobs
-VO:	[Cole Bramel](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiY6dzR66jwAhVpGDQIHYOXAGEQFjAAegQIBhAD&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcole-bramel-4481b4153&usg=AOvVaw3P2wpiHmQLRYHAJA7lm7E-) (plug: spectacular PIC for hire!)
+VO:	Cole Bramel
 Flight Number:	4 22 #2
 Takeoff Time:	1237
 Landing Time:	1259
@@ -68,7 +68,8 @@ Overlap:	80%
 Sidelap:	80%
 Coordinate System:	WGCS 1984 UTM Zone 16
 ```
-I typically find this information incredibly handy in post-aggregation and when writing reports to ensure my operation doesn't blow up in my face for not knowing what I did.
+
+I typically find this information  handy in post-aggregation and when writing reports to ensure my operation doesn't blow up in my face for not knowing what I did.
 
 ### Conclusion
 No metadata = no mission
