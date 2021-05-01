@@ -43,20 +43,20 @@ Equally important as the data captured is the metadata of a conducted flight. Wi
 
 When capturing metadata, here is a typical example of the information I take note of **before flying**:
 
-#### FLIGHT INFORMATION	
+FLIGHT INFORMATION	
 Location:	Martell Forest
 Date:	22 April 2021
 Time:	12:37
-#### WEATHER	
+WEATHER	
 METAR Used:	KLAF
 Temperature:	48degF
 Precipitation:	0%%
 Winds:	12kt Gusting, West
-#### VEHICLE INFORMATION	
+VEHICLE INFORMATION	
 Vehicle:	DJI Mavic Pro 2
 Sensor:	Ibid
 Battery Count:	2
-#### MISSION SPECS	
+MISSION SPECS	
 PIC:	Bryan Jacobs
 VO:	[Cole Bramel](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiY6dzR66jwAhVpGDQIHYOXAGEQFjAAegQIBhAD&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcole-bramel-4481b4153&usg=AOvVaw3P2wpiHmQLRYHAJA7lm7E-) (plug: spectacular PIC for hire!)
 Flight Number:	4 22 #2

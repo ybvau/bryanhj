@@ -43,4 +43,4 @@ Say your job is to focus on elevation. You're likely going to want to understand
 Say you're working with a DSM. You're likely going to want to generate hillshading to accurately depict heights of hills and slopes from a top-down perspective.
 
 ### Additional Information
-This assignment was written following [Dr. Joseph Hupy's](https://polytechnic.purdue.edu/profile/jhupy) guidance and acts as half of a deliverable for a Cartographic Fundamentals assignment. 
+This assignment was written following [Dr. Joseph Hupy's](https://polytechnic.purdue.edu/profile/jhupy) guidance and acts as half of a deliverable for a Cartographic Fundamentals as well as a Volumetrics assignment. 
