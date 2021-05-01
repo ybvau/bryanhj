@@ -1,7 +1,7 @@
 ---
 title: "ESRI's ArcGIS Pro"
 date: 0
-hero: /images/posts/writing-posts/git.svg
+hero: esri.png
 menu:
   sidebar:
     name: ESRI's ArcGIS Pro
@@ -27,12 +27,13 @@ So you've conducted your mission and processed it using Pix4D (or a service not 
 
 
 ### Fundamentals
-Your generated file likely came out in two foramts: an _orthomosaic_ or a _dsm_ (or _digital surface model_). Depending on what you're doing, you'll use one or the other. For the sake of this post, let's assume you're working with an orthomosaic, as you've been hired to stitch together some burn plots. Maybe your data came out like this:
+Your generated file likely came out in two foramts: an _orthomosaic_ or a _dsm_ (or _digital surface model_). Depending on what you're doing, you'll use one or the other. Let's assume you're working with an orthomosaic, as you've been hired to stitch together some burn plots. Maybe your data came out like this:
 
   ![](ORTHO_BP.png)
+  
 _fig. 01: Orthomosaic of a burn plot_
 
-If this is the case, nice job on collecting the data (and ideally with that [metadata](/cart-fund)).
+If this is the case, nice job on collecting the data (and ideally with that [metadata](posts/uas/data-fund/)).
 
 Say you're gathering data relevant to the location of specific objects, and the information needs to be as accurate as possible. When you're using your .tiff, be sure to enable _pyramids_ to ensure data visualization and statistics calculations stretch accordingly. 
 
@@ -40,7 +41,7 @@ Generating pyramids, gathering  visualizations, and statistics calculations are 
 
 Say your job is to focus on elevation. You're likely going to want to understand the difference between DSM and DEM, which [Peter Menet of MenetAero did a phenomenal job explaining in this article](https://menetaero.com/blog/drone-data-outputs). 
 
-Say you're working with a DSM. You're likely going to want to generate hillshading to accurately depict heights of hills and slopes from a top-down perspective.
+Say you're working with a DSM. You're likely going to want to generate hillshading to accurately depict heights of hills and slopes from a top-down perspective. One might use this for calculating _volumetrics_ of a specific plot of land or whatnot. 
 
 ### Additional Information
 This assignment was written following [Dr. Joseph Hupy's](https://polytechnic.purdue.edu/profile/jhupy) guidance and acts as half of a deliverable for a Cartographic Fundamentals as well as a Volumetrics assignment. 
