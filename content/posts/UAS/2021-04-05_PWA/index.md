@@ -1,6 +1,5 @@
 ---
 title: "2021 04 05 Field Outing"
-date: false
 hero: /images/posts/writing-posts/git.svg
 menu:
   sidebar:
