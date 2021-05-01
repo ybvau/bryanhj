@@ -14,5 +14,7 @@ menu:
 
 ### Overview
 
-Using data provided by Dr. J. Hupy from a recent mining mission in Eau Claire, WI, I had the opportunity to develop and 
 
+
+### Additional Information
+This assignment was written following [Dr. Joseph Hupy's](https://polytechnic.purdue.edu/profile/jhupy) guidance and acts as half of a deliverable for a Cartographic Fundamentals assignment. 
