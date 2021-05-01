@@ -1,10 +1,10 @@
 ---
-title: "ESRI: Volumetrics Project"
+title: "ESRI's ArcGIS Pro"
 date: 0
 hero: /images/posts/writing-posts/git.svg
 menu:
   sidebar:
-    name: ESRI Volumetrics Project
+    name: ESRI's ArcGIS Pro
     identifier: esri-volumetrics-project
     parent: UAGIS
     weight: 30

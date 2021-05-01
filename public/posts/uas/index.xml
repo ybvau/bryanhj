@@ -9,21 +9,32 @@
     <lastBuildDate>Wed, 31 Dec 1969 19:00:00 -0500</lastBuildDate><atom:link href="https://bryanhj.com/posts/uas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bramor PPX Checklist</title>
-      <link>https://bryanhj.com/posts/uas/bramor-checklist/</link>
+      <link>https://bryanhj.com/posts/uas/bramor-checklis/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
       
-      <guid>https://bryanhj.com/posts/uas/bramor-checklist/</guid>
+      <guid>https://bryanhj.com/posts/uas/bramor-checklis/</guid>
       <description>Archive !!Hupy &amp;amp; Lercel set gold standards!! Preflight Checklist - DJI Mavic Pro II 3d model data acquisition Mission Processing and Execution Field Notes Mission Planning How to use MGC to connect your phone and start or createa mapping mission  Tools  MGC Telemetry?GPS?etc   Boot MGC Enable platform Establish connection Create mission Lost links/emergency/pre-planning procedure  Setup and Takedown of Bramor  General c/o procedure
 Operating Procedures Check in/out Standard Operating Procedure There is a c/o form on BS - goalto get ?</description>
     </item>
     
     <item>
-      <title>ESRI: Volumetrics Project</title>
+      <title>Data Fundamentals</title>
+      <link>https://bryanhj.com/posts/uas/data-fund/</link>
+      <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
+      
+      <guid>https://bryanhj.com/posts/uas/data-fund/</guid>
+      <description>ESRI: Building maps with UAS Data Useful Documents Metadata Template
+Objectives The objective of this article is to inform the reader of basic cartographic skills and how a little bit of domain knowledge can borders the difference between making and missing a GIS project.
+Overview Proper cartographic skills are imperative to meeting the gold standard for operating with UAS data. From the fundamentals such as turning either a drawing or an aerial image into a map, proper translation techniques and methods (e.</description>
+    </item>
+    
+    <item>
+      <title>ESRI&#39;s ArcGIS Pro</title>
       <link>https://bryanhj.com/posts/uas/esri-volumetrics/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
       
       <guid>https://bryanhj.com/posts/uas/esri-volumetrics/</guid>
-      <description>ESRI: Volumetrics Project Overview Using data provided by Dr. J. Hupy from a recent mining mission in Eau Claire, WI, I had the opportunity to develop and</description>
+      <description>ESRI: Volumetrics Project Overview Additional Information This assignment was written following Dr. Joseph Hupy&amp;rsquo;s guidance and acts as half of a deliverable for a Cartographic Fundamentals assignment.</description>
     </item>
     
     <item>
@@ -37,10 +48,10 @@ Operating Procedures Check in/out Standard Operating Procedure There is a c/o fo
     
     <item>
       <title>Pix4D: Working with GCPs</title>
-      <link>https://bryanhj.com/posts/uas/pi4d-ww-gcp/</link>
+      <link>https://bryanhj.com/posts/uas/pix4d-ww-gcp/</link>
       <pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
       
-      <guid>https://bryanhj.com/posts/uas/pi4d-ww-gcp/</guid>
+      <guid>https://bryanhj.com/posts/uas/pix4d-ww-gcp/</guid>
       <description>Working with GCPs Overview Under the supervision of Dr. J. Hupy, I alongside my peer Matt Watson conducted a mission in which we flew ver</description>
     </item>
     

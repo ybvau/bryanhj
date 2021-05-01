@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>ESRI&#39;s ArcGIS Pro</title>
+    <title>Data Fundamentals</title>
     
 
 
@@ -39,7 +39,7 @@
 <link rel="stylesheet" href="/css/style.css"/>
 
     
-<meta name="description" content="ESRI&#39;s ArcGIS Pro" />
+<meta name="description" content="Data Fundamentals" />
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
@@ -177,21 +177,21 @@ if (!doNotTrack) {
   
   
   
+    
+    
+  
   
     
-    <li><a class="" href="/posts/uas/data-fund/">Data Fundamentals</a></li>
+    <li><a class="active" href="/posts/uas/data-fund/">Data Fundamentals</a></li>
   
 
   
   
   
   
-    
-    
-  
   
     
-    <li><a class="active" href="/posts/uas/esri-volumetrics/">ESRI&#39;s ArcGIS Pro</a></li>
+    <li><a class="" href="/posts/uas/esri-volumetrics/">ESRI&#39;s ArcGIS Pro</a></li>
   
 
   
@@ -244,21 +244,69 @@ if (!doNotTrack) {
         </div>
 
         <div class="title">
-          <h1>ESRI&#39;s ArcGIS Pro</h1>
+          <h1>Data Fundamentals</h1>
         </div>
 
         <div class="post-content" id="post-content">
-          <h1 id="esri-volumetrics-project">ESRI: Volumetrics Project</h1>
+          <h1 id="esri-building-maps-with-uas-data">ESRI: Building maps with UAS Data</h1>
+<h3 id="useful-documents">Useful Documents</h3>
+<p><a href="static/files/metadata.docx">Metadata Template</a></p>
+<h3 id="objectives">Objectives</h3>
+<p>The objective of this article is to inform the reader of basic cartographic skills and how a little bit of domain knowledge can borders the difference between making and missing a GIS project.</p>
 <h3 id="overview">Overview</h3>
-<h3 id="additional-information">Additional Information</h3>
-<p>This assignment was written following <a href="https://polytechnic.purdue.edu/profile/jhupy">Dr. Joseph Hupy&rsquo;s</a> guidance and acts as half of a deliverable for a Cartographic Fundamentals assignment.</p>
+<p>Proper cartographic skills are imperative to meeting the gold standard for operating with UAS data. From the fundamentals such as turning either a drawing or an aerial image into a map, proper translation techniques and methods (e.g. same geoid, recognition of metadata, XYZ/ZYX) and proper identification markers on the map distinguishes the map as a tool and not a wall photo.</p>
+<p>Being able to reference spatial patterns and recognize ground sample distances and digital surface models can inform the user of a host of information relevant to their geospatial project, which is essentially the backbone to use of unmanned aerial vehicles.</p>
+<h3 id="file-management">File Management</h3>
+<p>Capturing data can be a blast. Without a typical or straight-forward file structure to find the data you captured, though, your enjoyment can turn to dismay once you realize you need to find a specific .csv buried in one of your many, many DCIM folders. For that reason, I am sharing my general file naming logic.</p>
+<p>Key characteristics I use are first and foremost the date of flight, in year-month-date foramt. After doing so, I write the location of the job. If there&rsquo;s any initial data, I place the type of flight conducted. This is a format I carried over from when I was big on photography, and I find it incredibly useful. In sorting this way, as your skills (and ideally job list) grow, you can easily find a specific job and the metadata attaached to it. Here&rsquo;s an example of my file structure:</p>
+<pre><code>+-- 2021-04-22_Martell_3DM
+|   +-- 3DM_Captures
+|       +-- DCIM
+|   +-- metadata.csv
++-- 2021-04-12_PWA_GCP
+|   +-- DCIM
+|       +-- 01.jpg ...
+|   +-- metadata.csv
+</code></pre><h3 id="metadata">Metadata</h3>
+<p>Equally important as the data captured is the metadata of a conducted flight. Without proper reference for geoid or coordinate system, data you captured on one Indiana might end up being processed and referenced as data from the Philippenes. If you were <em>supposed</em> to be in the Philippenes, you might be able to see this as a good thing; chances are, however the data was meant to be captured in Indiana, and the individual you&rsquo;re flying for wouldn&rsquo;t be happy for paying for an NDVI analysis of what apppears to be a random field in Luzon.</p>
+<p>When capturing metadata, here is a typical example of the information I take note of <strong>before flying</strong>:</p>
+<h4 id="flight-information">FLIGHT INFORMATION</h4>
+<p>Location:	Martell Forest
+Date:	22 April 2021
+Time:	12:37</p>
+<h4 id="weather">WEATHER</h4>
+<p>METAR Used:	KLAF
+Temperature:	48degF
+Precipitation:	0%%
+Winds:	12kt Gusting, West</p>
+<h4 id="vehicle-information">VEHICLE INFORMATION</h4>
+<p>Vehicle:	DJI Mavic Pro 2
+Sensor:	Ibid
+Battery Count:	2</p>
+<h4 id="mission-specs">MISSION SPECS</h4>
+<p>PIC:	Bryan Jacobs
+VO:	<a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiY6dzR66jwAhVpGDQIHYOXAGEQFjAAegQIBhAD&amp;url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcole-bramel-4481b4153&amp;usg=AOvVaw3P2wpiHmQLRYHAJA7lm7E-">Cole Bramel</a> (plug: spectacular PIC for hire!)
+Flight Number:	4 22 #2
+Takeoff Time:	1237
+Landing Time:	1259
+Altitude:	8m
+Sensor Angle:	-90deg; variant
+Overlap:	80%
+Sidelap:	80%
+Coordinate System:	WGCS 1984 UTM Zone 16</p>
+<p>I typically find this information incredibly handy in post-aggregation and when writing reports to ensure my operation doesn&rsquo;t blow up in my face for not knowing what I did.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>No metadata = no mission
+Losing your data = no result
+Keep track of your flights and it&rsquo;ll show with your track record of excellence.</p>
+<h6 id="this-assignment-was-written-following-dr-joseph-hupyshttpspolytechnicpurdueeduprofilejhupy-guidance-and-acts-as-half-of-a-deliverable-for-a-cartographic-fundamentals-assignment">This assignment was written following <a href="https://polytechnic.purdue.edu/profile/jhupy">Dr. Joseph Hupy&rsquo;s</a> guidance and acts as half of a deliverable for a Cartographic Fundamentals assignment.</h6>
 
         </div>
 
         
         
           <div class="btn-improve-page">
-              <a href="https://github.com/ybvau/bryanhj/edit/source/content/posts%5cUAS%5cesri-volumetrics%5cindex.md" target="_blank">
+              <a href="https://github.com/ybvau/bryanhj/edit/source/content/posts%5cUAS%5cdata-fund%5cindex.md" target="_blank">
                 <i class="fas fa-code-branch"></i>
                 Improve this page
               </a>
@@ -273,14 +321,12 @@ if (!doNotTrack) {
   
 
   
-
-  
     
       
       <div class="col-md-6 previous-article">
-        <a href="/posts/uas/data-fund/" class="btn btn-outline-info">
+        <a href="/posts/uas/bramor-checklis/" class="btn btn-outline-info">
           <div><i class="fas fa-chevron-circle-left"></i> Prev</div>
-          <div class="next-prev-text">Data Fundamentals</div>
+          <div class="next-prev-text">Bramor PPX Checklist</div>
         </a>
       </div>
       
@@ -294,13 +340,15 @@ if (!doNotTrack) {
           
         
         <div class="col-md-6 next-article">
-          <a href="/posts/uas/mgc-me/" class="btn btn-outline-info">
+          <a href="/posts/uas/esri-volumetrics/" class="btn btn-outline-info">
             <div>Next <i class="fas fa-chevron-circle-right"></i></div>
-            <div class="next-prev-text">Measure Ground Control: Mission Ettiquette</div>
+            <div class="next-prev-text">ESRI&#39;s ArcGIS Pro</div>
           </a>
         </div>
       
     
+  
+
   
 
   
@@ -339,8 +387,31 @@ if (!doNotTrack) {
   <ul>
     <li>
       <ul>
+        <li><a href="#useful-documents">Useful Documents</a></li>
+        <li><a href="#objectives">Objectives</a></li>
         <li><a href="#overview">Overview</a></li>
-        <li><a href="#additional-information">Additional Information</a></li>
+        <li><a href="#file-management">File Management</a></li>
+        <li><a href="#metadata">Metadata</a>
+          <ul>
+            <li><a href="#flight-information">FLIGHT INFORMATION</a></li>
+            <li><a href="#weather">WEATHER</a></li>
+            <li><a href="#vehicle-information">VEHICLE INFORMATION</a></li>
+            <li><a href="#mission-specs">MISSION SPECS</a></li>
+          </ul>
+        </li>
+        <li><a href="#conclusion">Conclusion</a>
+          <ul>
+            <li>
+              <ul>
+                <li>
+                  <ul>
+                    <li><a href="#this-assignment-was-written-following-dr-joseph-hupyshttpspolytechnicpurdueeduprofilejhupy-guidance-and-acts-as-half-of-a-deliverable-for-a-cartographic-fundamentals-assignment">This assignment was written following <a href="https://polytechnic.purdue.edu/profile/jhupy">Dr. Joseph Hupy&rsquo;s</a> guidance and acts as half of a deliverable for a Cartographic Fundamentals assignment.</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
       </ul>
     </li>
   </ul>
