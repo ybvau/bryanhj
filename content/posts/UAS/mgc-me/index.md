@@ -12,4 +12,15 @@ menu:
 
 ### Measure Ground Control: Mission Ettiquette
 
-Currently being compiled - coming soon.
+## Mission Planning
+
+### How to use MGC to connect your phone and start or createa mapping mission
+
+1. Tools
+   1. MGC
+   2. Telemetry?GPS?etc
+2. Boot MGC
+3. Enable platform
+4. Establish connection
+5. Create mission 
+6. Lost links/emergency/pre-planning procedure

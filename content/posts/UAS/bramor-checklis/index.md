@@ -9,109 +9,20 @@ menu:
     parent: UAGIS
     weight: 20
 ---
-
-
-
-
-# Archive
-
-### !!Hupy & Lercel set gold standards!!
-
-### Preflight Checklist - DJI Mavic Pro II
-
-### 3d model data acquisition
-
-### Mission Processing and Execution
-
-
-
-# Field Notes
-
-## Mission Planning
-
-### How to use MGC to connect your phone and start or createa mapping mission
-
-1. Tools
-   1. MGC
-   2. Telemetry?GPS?etc
-2. Boot MGC
-3. Enable platform
-4. Establish connection
-5. Create mission 
-6. Lost links/emergency/pre-planning procedure
-
-### Setup and Takedown of Bramor
-
-
-
-## 
-
-General c/o procedure
-
-
-
-## Operating Procedures
-
-### Check in/out Standard Operating Procedure
-
-There is a c/o form on BS - goalto get ??? but we're not there yet.
-
-Mimic it, also when fillo out also receive metadata sheet
-
-If there's an over-- be sure to LET THEM KNOW. If you're over an HOUR LATE, it will be marked down. After 3 strikes, no more dispatch per week. Basically grounded :-( If it happens 4x = no aircraft 
-
-Stdop procedures in place to ensurethat it's been checked out and used accordingly. Thgere are limited reosurces and a standard check in/out procedure shoudl be effectively referenced. Tally marks 
-
-Flights needed to be rearranged, cancelled, etc. if flights are LATE. They are to be  RETURNED ON TIME to ensure resources are shared accordingly. 
-
-equip out more than 24h = no no
-
-Fill out the board. 
-
-BoardBasics
-
-| Fill out the day you're taking it out, the time you're taking it out, and what aircraft you're tking out.**
-
-
-
-**If you haveplans that change, cancel flight, ppick up earlier, 
-
-
-
-
+### General notes
+* Parrot steps back and forth to ensure they are completed and adhered to.
+* If something is missing or broken, absolutely do not continue with the flight. Notify dispatch.
 
 ### BRAMOR + CHECKLIST
-
-1. UNDO TWOBUCKLES ON BOTOM 
+1. UNDO TWO BUCKLES ON BOTOM 
    1. TW. CTR CLOCKWISE
    2. E/A GRABHANDLE: LIFT OFF, SET DOWN
    3. KEEP DISTANCE FROM PEOPLE UNPACKING THE COMPONENT BOXES
 2. SOP CHECKLISTS ARE WRITTEN TO FOLLOW PROPER PROCEDURES IN A STEP-BY-STEP FASHION. THE GOAL OF A CHECKLIST IS TO COVER ALL OF THE STEPS AND LEAVE NOTHING UP TO INTUITION. 
-3. The checklist is not written to be dummy-proof. It is, in fact ,written for the common UA.
+3. The checklist is not written to be dummy-proof. It is, in fact, written for the common UA.
 
-
-
-Checklist Standard Operating Procedures
-
-
-
-The checklist is an imperativestep of proper mission execution and ettiquette. It's highly encouraged to either reference the OEM checklist or devise one's own. 
-
-
-
-### Designing a Checklist 
-
-The checklist should be written for the common unmanned aviator. It is NOT MEANT TO BE DUMMY-PROOF. It would be considered proper etiquette to memorize which components of the used platforms are followed explicitly. The general checklist procedure commonly contains for procedures designed to be explicitly followed, with each containing sub-checklists that should be followed, as well.
-
-Common etiquette is to STATE the step and then REPEAT the step after completion. NO ASSUMPTION WHATSOEVER. 
-
-1. Unpacking
-2. Assembling
-3. Preflight
-4. Launch
 
 #### Unpacking
-
 Unpacking is the first of the four components and is also the most crucial in terms of inspection. The unpacking section of the checklist should be designed with ensuringall of the components are in proper operating condition. This section shouldfocus on checking the hardware components and establishing them in a proper operatingcondition. For this example, we will review the unpacking section of the C-Astral Bramor PPX.
 
 1. KESTREL: ON
@@ -146,8 +57,6 @@ Unpacking is the first of the four components and is also the most crucial in te
 
    7. Winch Rope: EXTEND
 
-      1. 
-
    8. Winch Rope State: CHECK
 
    9. Breaking RopeState: CHECK
@@ -177,12 +86,8 @@ Unpacking is the first of the four components and is also the most crucial in te
    21. Payload Sensor: SELECTED
 
 
-
 #### Assembly
-
-The aircraft should be assembled with extensive precaution. The aircraft can and will break should it get caught on something. Composites are designed to be strong in the direction they are supposed to withstand the force from. 
-
-Common Etiquette results in ensuring you're tracking where the parts of the aircraft are. If there is a misplaced wingtip, there is significant dangert of potentially stepping on and by proxy breaking the wing tip. 
+The aircraft should be assembled with extensive precaution. The aircraft can and will break should it get caught on something. Composites are designed to be strong in the direction they are supposed to withstand the force from. Common Etiquette results in ensuring you're tracking where the parts of the aircraft are. If there is a misplaced wingtip, there is significant dangert of potentially stepping on and by proxy breaking the wing tip. 
 
 1. Airframe and Wing Connectors: CHECK
    1. The airframe and wing connector should be checked for critically damaged areas to ensure that the platform will operate safely and without mishap.
@@ -243,9 +148,7 @@ Common Etiquette results in ensuring you're tracking where the parts of the airc
     1. Ensuresthe parachute can and will deploy when the chute is popped without error.
 
 
-
 #### Preflight
-
 1. Mission: OPEN/CREATE
 2. Payload Sensor Selected: CHECK
 3. UAV Battery: CHECK
@@ -289,8 +192,8 @@ Common Etiquette results in ensuring you're tracking where the parts of the airc
 27. Pitot Test: CHECK
     1. Cover the pitot tube front-end and ensure the pitot registers a light amount of pressure. The goal is to ensure that the \pitot tube can read up to 10m/s.
 
-#### Launch
 
+#### Launch
 The final step of the checklist is the launch portion. Once this begins, all but PIC and LOS go behind 
 
 1. Trolley: LOCK
@@ -316,20 +219,9 @@ The final step of the checklist is the launch portion. Once this begins, all but
 13. Catapult release: PULL
 
 #### Disassembly/teardown: PIC works left in, first office works right in
-
 1. Upon removal of the wing, hook antennae back in the wing.
 2. Wingletsgo CONNECTOR facing out
 3. Left wing goes on TOP CASE
 4. right wing goes BOTTOM-top
 5. If you can't get batteries removed - PULL LEFT FIRST. HOLD RIGHT ONE DOWN. BREAK FRICTION LOCK - NOT THE PLATFORM.
 6. When tearing down catapuly: take ALL BUNGEES and hold to RIGHT SIDE. Hold bungees ABOVE CATAPULT during placement wihthin case - then place bungees on top,. 
-
-
-
-
-
-
-
-### There is success due to struggling - ensure ther e is a challenge 
-
-Parrot back-forth the steps as they are accomplished. 

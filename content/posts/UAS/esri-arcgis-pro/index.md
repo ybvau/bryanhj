@@ -13,9 +13,10 @@ menu:
 # ESRI's ArcGIS Pro: an unmanned aviator's reference guide
 ### Useful Links
 [Getting Started with ArcGIS Pro](https://www.esri.com/training/catalog/57630435851d31e02a43f007/getting-started-with-arcgis-pro/) _by ESRI_
-[The Difference between DEM and DSM](https://menetaero.com/blog/drone-data-outputs) _by MenetAero_
-[Geoprocessing Tool Reference Guide](https://pro.arcgis.com/en/pro-app/latest/tool-reference/main/arcgis-pro-tool-reference.htm) _by Esri_
 
+[The Difference between DEM and DSM](https://menetaero.com/blog/drone-data-outputs) _by MenetAero_
+
+[Geoprocessing Tool Reference Guide](https://pro.arcgis.com/en/pro-app/latest/tool-reference/main/arcgis-pro-tool-reference.htm) _by Esri_
 
 [Metadata Template](static/files/metadata.docx)
 
@@ -30,7 +31,7 @@ So you've conducted your mission and processed it using Pix4D (or a service not 
 Your generated file likely came out in two foramts: an _orthomosaic_ or a _dsm_ (or _digital surface model_). Depending on what you're doing, you'll use one or the other. Let's assume you're working with an orthomosaic, as you've been hired to stitch together some burn plots. Maybe your data came out like this:
 
   ![](ORTHO_BP.png)
-  
+
 _fig. 01: Orthomosaic of a burn plot_
 
 If this is the case, nice job on collecting the data (and ideally with that [metadata](posts/uas/data-fund/)).

@@ -1,5 +1,5 @@
 ---
-title: "UAGIS Overview"
+title: "MapData with ArcGIS Pro"
 date: 0
 hero: /images/posts/writing-posts/git.svg
 menu:
