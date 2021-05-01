@@ -10,9 +10,9 @@ menu:
     weight: 30
 ---
 
-# ESRI: Building maps with UAS Data
+# UAGIS Data Fundamentals
 ### Useful Documents
-[Metadata Template](static/files/metadata.docx)
+[Metadata Template](https://docs.google.com/document/d/1nhlcJFrLBlf2TZD8CA6A8tX0WXOVFKkEaQ79QDK6ckw/edit?usp=sharing)
 
 ### Objectives
   The objective of this article is to inform the reader of basic cartographic skills and how a little bit of domain knowledge can borders the difference between making and missing a GIS project.
