@@ -42,7 +42,7 @@ Key characteristics I use are first and foremost the date of flight, in year-mon
 Equally important as the data captured is the metadata of a conducted flight. Without proper reference for geoid or coordinate system, data you captured on one Indiana might end up being processed and referenced as data from the Philippenes. If you were _supposed_ to be in the Philippenes, you might be able to see this as a good thing; chances are, however the data was meant to be captured in Indiana, and the individual you're flying for wouldn't be happy for paying for an NDVI analysis of what apppears to be a random field in Luzon.
 
 When capturing metadata, here is a typical example of the information I take note of **before flying**:
-
+```
 FLIGHT INFORMATION	
 Location:	Martell Forest
 Date:	22 April 2021
@@ -67,7 +67,7 @@ Sensor Angle:	-90deg; variant
 Overlap:	80%
 Sidelap:	80%
 Coordinate System:	WGCS 1984 UTM Zone 16
-
+```
 I typically find this information incredibly handy in post-aggregation and when writing reports to ensure my operation doesn't blow up in my face for not knowing what I did.
 
 ### Conclusion
