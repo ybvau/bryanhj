@@ -6,7 +6,7 @@ menu:
     identifier: evals
     weight: 301
 ---
-
+### Rubric
 1.	Prior to this activity, how would you rank yourself in knowledge about the topic. (1-No Knowledge at all, 2-Very Little Knowledge, 3-Some knowledge, 4-A good amount of knowledge, 5-I knew all about this)
 2.	Following this activity, how would you rate the amount of knowledge you have on the topic (1- I don’t really know enough to talk about the topic, 2- I know enough to explain what I did, 3-I know enough to repeat what I did, 4-I know enough to teach someone else, 5- I am an expert)
 3.	Did the hands-on approach to this activity add to how much you were able to learn (1-Strongly Disagree, 2-Disagree, 3-No real opinion, 4-Agree, 5-Strongly Agree)
@@ -27,7 +27,7 @@ menu:
 
 ### Cartographics
 1. I had brief experience the semester prior. I'd put myself at a 2.
-2. I appreciated running through the cartographic topics and what needs to be known. According to the feedback I received later in the semester, it appears I had been basing my education off of incorrect factors (not accounting for a few very poor answers on my end). I wouldn't consider myself an expert by any means. 2
+2. I appreciated running through the cartographic topics and what needs to be known. According to the feedback I received later in the semester, it appears I had been basing my education off of incorrect factors (not accounting for a few very poor answers on my end). Seeing as how this was fudnamental, it makes sense I was confused later in the semester. I hadn't had anybody to tell me I was wrong about things until its close. I wouldn't consider myself an expert by any means. 2
 3. Tactile is imperative. 5
 4. ArcPro takes time to work with, and it likely takes multiple exercises further than simply having students run through it once. I feel we can maange if that's the case, but routinely running through the same thing -- a lot like the parachute folding assignment -- is an amazing way to reinforce the education.
 

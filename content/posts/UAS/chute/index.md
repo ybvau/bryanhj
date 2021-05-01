@@ -112,7 +112,7 @@ j-i.	This must be a zigzag fold
 j-ii.	Measure 9-10cm on hand, then fold the parachute with about 5cm on either side of the center line.
 j-iii.	Ensure the line is straight so it will fit in the deployment bag.
 k.	Flip the chute over before starting on the other side.
-l.	Fold vertically in a zig-zag pattern. The length of each fold should be approximately 10cm.\ 
+l.	Fold vertically in a zig-zag pattern. The length of each fold should be approximately 10cm.
 ![](7.png)
 Figure 8: Post zig-zag folds, ready to be placed in the parachute deployment bag.
 
@@ -128,13 +128,14 @@ b-ii.	Suspension lines should be of equal length.
 b-iii.	Red suspension line should be in the middle at this point 
 ![](8.png)
 Figure 9: First attempt folded; to be revised and rethreaded!
+
 6.	Documenting Process 
 i.	Write on a piece of tape the name of who packed it, the date and time at which it was packed.
-  
+![](9.png)
 Figure 10: Writing on tape and placing it on the bag.
 
 ii.	Place the tape on the bag after. DO NOT WRITE ON THE BAG.
- 
+
 Finally, don’t forget about providing recording of the assessment information.
 1.	Prior to this activity, how would you rank yourself in knowledge about the topic. (1-No Knowledge at all, 2-Very Little Knowledge, 3-Some knowledge, 4-A good amount of knowledge, 5-I knew all about this)
 2.	Following this activity, how would you rate the amount of knowledge you have on the topic (1- I don’t really know enough to talk about the topic, 2- I know enough to explain what I did, 3-I know enough to repeat what I did, 4-I know enough to teach someone else, 5- I am an expert)
